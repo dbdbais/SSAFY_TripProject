@@ -25,6 +25,33 @@
 
 ## 동작 영상 <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
+
+
+|회원 가입|PW조회 / 로그인|게시글 / 댓글 CRUD, 좋아요|
+|:---:|:---:|:---:|
+|![회원가입](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/6e64cdf3-4812-4229-a739-e7a1b8fd0ccd)|![PW조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/9e94dc60-14a7-4c6d-8595-c1642f8e60fe)|![게시판](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/fe0d8aca-7f39-4d6d-8536-cf0c7691f3d6)|
+
+|키워드 검색 / 페이징 / 정렬|여행계획 조회|위치 기반 날씨 조회|
+|:---:|:---:|:---:|
+|![페이징](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/5235ec4f-bd39-4de7-a334-ce770f21e876)|![여행계획조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/8f6ef769-be9a-4cd9-83ea-71d7e84d58c6)|![날씨 API](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/60a1beb1-97c1-4421-a37b-85e53a366ab7)|
+
+|여행 계획 등록|위치 기반 웹 크롤링 | 핫플레이스(리뷰) 등록|
+|:---:|:---:|:---:|
+|![여행계획 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/66b98102-fabe-47fa-9621-50c9fc673e16)|![웹크롤링](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/ab2e01b3-6deb-4ee9-ae71-446460636b5d)|![핫플레이스 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/457e28f2-291f-49aa-b032-4e43bb212510)|
+
+|핫플레이스 랜덤 조회|여행 도우미 챗봇|
+|:---:|:---:|
+|![핫플레이스 게시](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/481f0332-9a8a-48b7-b12b-4dae8cf80e5e)|![CHAT-GPT](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/b0174f8b-8117-49d2-8656-82f90338a98e)|
+
+
+
+
+
+
+
+
+
+
 ## ERD <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
 ![erd](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/273bb91f-bdd5-4b08-87d3-5e1c64fca2ff)
