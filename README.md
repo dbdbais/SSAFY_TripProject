@@ -1,4 +1,4 @@
-# SSAFY 11th EnjoyTrip [여행객을 위한 플랫폼 구현 프로젝트]
+# SSAFY 11th EnjoyTrip [여행객을 위한 플랫폼 구현]
 
 ## 기술 스택 <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png">
 
@@ -8,16 +8,22 @@
 
 ## 구현 기능 <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
-- 공공데이터 KaKao Map API를 활용한 여행지 조회 시스템
+- 공공데이터와 KaKao Map API를 활용한 여행지 조회 플랫폼
 
-- 회원가입, 로그인, 네이버 메일로 비밀번호 찾기, 마이페이지
+- 사용자 회원가입, 로그인, 메일로 비밀번호 찾기, 마이페이지
 
 - 게시판, 공지사항, 검색, 댓글 좋아요 기능
-- 프로필 사진 연동
-- 날씨 API를 활용한 날씨를 고려한 여행경로 설정
+  
+- 프로필 이미지 연동
+  
+- 날씨 API를 활용한 검색 위치의 날씨를 고려한 여행경로 설정
+  
 - 사용자들의 여행계획 조회 및 등록
-- 웹 크롤링을 이용한 핫플레이스 등록 및 조회
+  
+- 검색 위치를 기반으로 웹 크롤링을 이용한 핫플레이스 등록 및 조회
+  
 - 메인 페이지에 핫플레이스 이미지 업로드
+
 - CHAT-GPT API를 이용한 챗봇 가능
 
 ## Swagger <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
