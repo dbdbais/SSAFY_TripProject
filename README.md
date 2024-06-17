@@ -1,4 +1,11 @@
-# SSAFY 11th EnjoyTrip [여행객을 위한 플랫폼 구현]
+# SSAFY EnjoyTrip [여행객을 위한 플랫폼 구현]
+
+## 팀원
+| 이름   | GitHub                                         |
+| ------ | ---------------------------------------------- |
+| 서정운 | [@SlowCloud](https://github.com/SlowCloud) |
+| 이강우 | [@dbdbais](https://github.com/dbdbais) |
+
 
 ## 기술 스택 <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png">
 
@@ -74,4 +81,5 @@
 ![2](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/1436d30a-96fb-44ee-b009-2a2338089cc1)
 ![3](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/cdadd23b-5c61-4f9a-b196-ab3d6042ee11)
 ![4](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/08399228-2598-41cd-b3a0-423156cf11ca)
+
 
