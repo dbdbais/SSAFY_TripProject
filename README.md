@@ -37,7 +37,7 @@
 |:---:|:---:|
 |![회원가입](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/6e64cdf3-4812-4229-a739-e7a1b8fd0ccd)|![PW조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/9e94dc60-14a7-4c6d-8595-c1642f8e60fe)|
 
-|게시글 / 댓글 CRUD, 좋아요|키워드 검색 / 페이징 / 공지사항 / 정렬 |
+|게시글 & 댓글 CRUD / 조회 수, 좋아요 |키워드 검색 / 페이징 / 공지사항 / 조회 순 정렬 / Q&A 게시판 |
 |:---:|:---:|
 ![게시판](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/fe0d8aca-7f39-4d6d-8536-cf0c7691f3d6)|![페이징](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/5235ec4f-bd39-4de7-a334-ce770f21e876)
 
