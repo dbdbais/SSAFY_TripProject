@@ -12,6 +12,17 @@
 
 ![stack](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/69882e68-80f5-4fb8-9e26-23dc8ddf5d92)
 
+- FrontEnd : Vue.js, BootStrap
+- BackEnd : SpringBoot (Java)
+- DataBase : MySql, MyBatis
+- API : OpenWeather, Kakao map, Jsoup, Spring Boot Starter Mail
+- ETC : Swagger
+
+
+## 개발 일정
+<img width="1000" alt="일정" src="https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/6d95d39d-1c4b-4caa-a918-a1baf529a235">
+
+
 
 ## 구현 기능 <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
@@ -21,7 +32,7 @@
 
 - 게시판, 공지사항, 검색, 댓글 좋아요 기능
   
-- 프로필 이미지 연동
+- 첨부파일 이미지 저장을 이용한 프로필 이미지 연동
   
 - 날씨 API를 활용한 검색 위치의 날씨를 고려한 여행경로 설정
   
@@ -40,25 +51,45 @@
 
 
 
-|회원 가입| PW찾기 / 로그인|
-|:---:|:---:|
-|![회원가입](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/6e64cdf3-4812-4229-a739-e7a1b8fd0ccd)|![PW조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/9e94dc60-14a7-4c6d-8595-c1642f8e60fe)|
+|회원 가입|
+|:---:|
+|![회원가입](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/6e64cdf3-4812-4229-a739-e7a1b8fd0ccd)|
 
-|게시글 & 댓글 CRUD / 조회 수, 좋아요 |키워드 검색 / 페이징 / 공지사항 / 조회 순 정렬 / Q&A 게시판 |
-|:---:|:---:|
-![게시판](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/fe0d8aca-7f39-4d6d-8536-cf0c7691f3d6)|![페이징](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/5235ec4f-bd39-4de7-a334-ce770f21e876)
+|PW찾기 / 로그인|
+|:---:|
+|![PW조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/9e94dc60-14a7-4c6d-8595-c1642f8e60fe)|
 
-|여행계획 조회|위치 기반 날씨 조회|
-|:---:|:---:|
-|![여행계획조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/8f6ef769-be9a-4cd9-83ea-71d7e84d58c6)|![날씨 API](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/60a1beb1-97c1-4421-a37b-85e53a366ab7)|
+|게시글 & 댓글 CRUD / 조회 수, 좋아요 |
+|:---:|
+![게시판](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/fe0d8aca-7f39-4d6d-8536-cf0c7691f3d6)|
 
-|여행 계획 등록|위치 기반 웹 크롤링 |
-|:---:|:---:|
-|![여행계획 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/66b98102-fabe-47fa-9621-50c9fc673e16)|![웹크롤링](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/ab2e01b3-6deb-4ee9-ae71-446460636b5d)|
+|키워드 검색 / 페이지네이션 / 공지사항 / 조회 순 정렬 / Q&A 게시판|
+|:---:|
+|![페이징](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/5235ec4f-bd39-4de7-a334-ce770f21e876)|
 
-|핫플레이스(리뷰) 등록|핫플레이스 랜덤 조회|
-|:---:|:---:|
-|![핫플레이스 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/457e28f2-291f-49aa-b032-4e43bb212510)|![핫플레이스 게시](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/481f0332-9a8a-48b7-b12b-4dae8cf80e5e)|
+|여행계획 조회|
+|:---:|
+|![여행계획조회](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/8f6ef769-be9a-4cd9-83ea-71d7e84d58c6)
+
+|위치 기반 날씨 조회 |
+|:---:|
+|![날씨 API](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/60a1beb1-97c1-4421-a37b-85e53a366ab7)|
+
+|여행 계획 등록|
+|:---:|
+|![여행계획 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/66b98102-fabe-47fa-9621-50c9fc673e16)|
+
+|위치 기반 웹 크롤링 |
+|:---:|
+|![웹크롤링](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/ab2e01b3-6deb-4ee9-ae71-446460636b5d)|
+
+|핫플레이스(리뷰) 등록|
+|:---:|
+|![핫플레이스 등록](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/457e28f2-291f-49aa-b032-4e43bb212510)|
+
+|핫플레이스(리뷰) 랜덤 조회|
+|:---:|
+|![핫플레이스 게시](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/481f0332-9a8a-48b7-b12b-4dae8cf80e5e)|
 
 |여행 도우미 챗봇|
 |:---:|
@@ -77,9 +108,14 @@
 
 ## Class Diagram <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
+
 ![1](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/94fc169c-0d70-40a7-b90e-9c4f24a66b1a)
 ![2](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/1436d30a-96fb-44ee-b009-2a2338089cc1)
 ![3](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/cdadd23b-5c61-4f9a-b196-ab3d6042ee11)
 ![4](https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/08399228-2598-41cd-b3a0-423156cf11ca)
 
+## 어려웠던 점
 
+- 업로드 한 이미지를 즉각으로 가져오지 못해 애를 많이 먹었다.
+- DB 설계 후에 수정해야 할 일이 많아 시간이 많이 소요되었다.
+- 프로젝트 기간이 짧아 테스팅과 유지보수할 시간이 없어 아쉬웠다.
