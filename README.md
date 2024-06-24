@@ -42,7 +42,7 @@
   
 - 메인 페이지에 핫플레이스 이미지 업로드
 
-- CHAT-GPT API를 이용한 챗봇 가능
+- CHAT-GPT API를 이용한 챗봇 기능
 
 ## Swagger <img width="91" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 <img width="951" alt="명세서" src="https://github.com/dbdbais/SSAFY_TripProject/assets/99540674/27a8d69f-6d2c-4513-bb37-3fa8c06de999">
